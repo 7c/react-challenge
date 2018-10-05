@@ -27,7 +27,7 @@ You will receive different properties from that query and it is your task to dec
 - We will have an `About` and `Home` pages. Home will host the Weather App itself and About view will host simple Text with Name of the App and the version. You need to use react-router to switch between these 2 views/components
 - Make sure to have proper directory structure for scalability, hint: Components, Containers, Store, CSS
 - This is the essential feature list which is required as minimum. Feel free to add new features or ideas on top of it to show your capabilities.
-- Please see https://github.com/7c/react-challenge/assets/Weather_App_Mockup.png as Mockup of the UI. Make sure to center Home and About views and make them responsive
+- Please see https://github.com/7c/react-challenge/blob/master/assets/Weather_App_Mockup.png as Mockup of the UI. Make sure to center Home and About views and make them responsive
 
 ## Deployment
 
